@@ -6,7 +6,7 @@
 # catalog-version 0.9b
 Name:		texlive-units
 Version:	0.9b
-Release:	10
+Release:	11
 Summary:	Typeset units
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/units
