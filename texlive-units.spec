@@ -1,6 +1,6 @@
 Name:		texlive-units
 Version:	42428
-Release:	1
+Release:	2
 Summary:	Typeset units
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/units
