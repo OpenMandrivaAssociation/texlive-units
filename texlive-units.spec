@@ -3,7 +3,7 @@ Version:	42428
 Release:	2
 Summary:	Typeset units
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/units
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/units
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/units.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/units.doc.r%{version}.tar.xz
